@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aldaraharja
 - 👀 I’m interested in Optimization Data, obviously on Healthcare, Population, 
-- 🌱 I’m currently learning Python to get more understand about Machine Learning, Wish me Luck !!
+- 🌱 I’m currently learning Python to get more understand about Data Analyst, Optimizing Data, and How Machine Learning works, Wish me Luck !!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
